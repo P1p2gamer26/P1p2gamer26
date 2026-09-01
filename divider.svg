@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#03787C;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#03787C;stop-opacity:1">
+        <animate attributeName="stop-color" values="#03787C;#014446;#03787C" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="70%" style="stop-color:#03787C;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Main line -->
+  <rect x="0" y="9" width="800" height="2" fill="url(#divGrad)" rx="1"/>
+  
+  <!-- Center diamond -->
+  <g transform="translate(400,10)">
+    <rect x="-5" y="-5" width="10" height="10" fill="#03787C" transform="rotate(45)" rx="1">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-3" y="-3" width="6" height="6" fill="#014446" transform="rotate(45)" rx="0.5">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- Side dots -->
+  <circle cx="350" cy="10" r="1.5" fill="#03787C" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="10" r="1.5" fill="#03787C" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+</svg>
