@@ -399,6 +399,16 @@ Además de los proyectos públicos, trabajo en **proyectos privados en constante
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
+<!--                           GUSANITO                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/P1p2gamer26/P1p2gamer26/main/gusanito.svg" width="680" alt="Gusanito" />
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
 <!--                            FOOTER                               -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
