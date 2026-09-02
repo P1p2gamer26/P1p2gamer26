@@ -391,35 +391,16 @@ Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
   <table>
   <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=P1p2gamer26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=03787c&icon_color=03787c&text_color=c9d1d9&border_radius=10&include_all_commits=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=P1p2gamer26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=03787c&icon_color=03787c&text_color=c9d1d9&border_radius=10&include_all_commits=true" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1p2gamer26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=03787c&text_color=c9d1d9&border_radius=10" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=P1p2gamer26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=03787c&text_color=c9d1d9&border_radius=10" />
   </td>
   </tr>
   </table>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10)](https://git.io/streak-stats)
 
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=P1p2gamer26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Actividad reciente</h3>
-
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P1p2gamer26&theme=tokyonight&hide_border=true&bg_color=0d1117&color=03787c&point=ffffff&line=03787c&area=03787c&area_opacity=0.15&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                           GUSANITO                              -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/P1p2gamer26/P1p2gamer26/main/gusanito.svg" width="680" alt="Gusanito" />
 </div>
 
 <br/>
