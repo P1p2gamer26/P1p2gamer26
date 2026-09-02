@@ -388,17 +388,6 @@ Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
 <div align="center">
   <h3>Estadísticas y contribuciones</h3>
 
-  <table>
-  <tr>
-  <td>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=P1p2gamer26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=03787c&icon_color=03787c&text_color=c9d1d9&border_radius=10&include_all_commits=true" />
-  </td>
-  <td>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=P1p2gamer26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=03787c&text_color=c9d1d9&border_radius=10" />
-  </td>
-  </tr>
-  </table>
-
   [![GitHub Streak](https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10)](https://git.io/streak-stats)
 
 </div>
