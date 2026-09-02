@@ -53,11 +53,9 @@
   <h3>Sobre mí</h3>
 </div>
 
-|<p align="left">|
-|---|
-| **Estudiante de Ingeniería de Sistemas** — Pontificia Universidad Javeriana (2022–2026)  |
-| **Monitor de Programación Avanzada**, acompañando y guiando a estudiantes en fundamentos y buenas prácticas de desarrollo.  |
-| Interesado en **Inteligencia Artificial, recuperación de información y desarrollo de software** en todas sus capas — desde modelos y algoritmos hasta interfaces.  |
+**Estudiante de Ingeniería de Sistemas** — Pontificia Universidad Javeriana (2022–2026).
+**Monitor de Programación Avanzada**: acompaño a estudiantes en fundamentos y buenas prácticas de desarrollo.
+Trabajo en **Inteligencia Artificial, recuperación de información y desarrollo de software** en todas sus capas — desde los modelos y algoritmos hasta la interfaz.
 
 **Áreas de enfoque**
 
@@ -96,7 +94,7 @@
 </div>
 
 <div align="center">
-  <h3>Stack & herramienta</h3>
+  <h3>Stack &amp; herramientas</h3>
 </div>
 
 **Lenguajes y frameworks principales**
@@ -388,8 +386,17 @@ Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
 <div align="center">
   <h3>Estadísticas y contribuciones</h3>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10)](https://git.io/streak-stats)
+  <img src="https://raw.githubusercontent.com/P1p2gamer26/P1p2gamer26/main/metrics.svg" width="680" alt="Metricas de GitHub" />
 
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10" alt="Racha de contribuciones" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/P1p2gamer26/P1p2gamer26/output/snake.svg" width="680" alt="Serpiente recorriendo el grafico de contribuciones" />
 </div>
 
 <br/>
