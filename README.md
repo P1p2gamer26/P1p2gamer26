@@ -346,16 +346,32 @@ Automatización de **formatos de gestión** PGRISA/SGC — solución real en pro
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h3>Proyectos privados en desarrollo</h3>
+  <h3>Proyectos privados en producción</h3>
 </div>
 
-Además de los proyectos públicos, trabajo en **proyectos privados en constante desarrollo** que cubren un espectro más amplio de tecnologías. Por su carácter confidencial no están publicados aquí, pero abarcan:
+Además de los proyectos públicos, construyo **sistemas privados que ya operan en producción**. Por acuerdos de confidencialidad con los clientes, el código no está publicado aquí, pero destaco especialmente:
 
-- Sistemas web y de automatización empresarial
-- Aplicaciones móviles orientadas a producto
-- Prototipos y experimentos en **IA, NLP y recuperación de información**
+**Sistema de Asistencia — Colegio Gabriel García Márquez**
 
-**Tecnologías involucradas**: Java, Python, Spring Boot, Kotlin, Jetpack Compose, Docker, scikit-learn, FAISS, HuggingFace, spaCy.
+*Offline-first PWA · React (Vite) · Spring Boot 3 · PostgreSQL 16*
+
+Sistema real, en uso diario por el colegio, que reemplazó la toma de asistencia en
+Power Apps + Excel: registro **sin conexión** con sincronización automática, planilla
+de horarios, portal para acudientes, reportes en Excel, control de ingreso por portería
+y notificaciones por correo.
+
+**SysteFarma**
+
+*Plataforma normativa para droguerías · Django 5 · DRF · PostgreSQL*
+
+Plataforma web de cumplimiento regulatorio para farmacias en Colombia, con despliegue
+automatizado (GitHub Actions → VPS) y más de 600 commits de desarrollo.
+
+Además trabajo en otros repositorios privados —`SistemaPos`, `vision-analytics`,
+`practicando-avanzada`, `try_Java`— que mantengo reservados.
+
+**Tecnologías involucradas**: Java, Python, Django, Spring Boot, React, Kotlin,
+Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
 
 > Si un proyecto en particular despierta tu interés, no dudes en escribirme: siempre es un gusto compartir y colaborar.
 
