@@ -386,9 +386,11 @@ Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
 <div align="center">
   <h3>Estadísticas y contribuciones</h3>
 
+  <!-- Se activa al crear el secret METRICS_TOKEN (ver .github/workflows/metrics.yml)
   <img src="https://raw.githubusercontent.com/P1p2gamer26/P1p2gamer26/main/metrics.svg" width="680" alt="Metricas de GitHub" />
 
   <br/><br/>
+  -->
 
   <img src="https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10" alt="Racha de contribuciones" />
 </div>
