@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/julian-felipe-africano-44b84b281/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://talento.javeriana.edu.co">
+<a href="https://talento.javeriana.edu.co/account">
   <img src="https://img.shields.io/badge/Talento_Javeriano-0B3954?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:julianafricano@gmail.com">
