@@ -19,6 +19,15 @@
 <a href="https://github.com/P1p2gamer26">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://P1p2gamer26.github.io/julianafricano/">
+  <img src="https://img.shields.io/badge/Portafolio-03787C?style=for-the-badge&logo=astro&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/julian-felipe-africano-44b84b281/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://talento.javeriana.edu.co">
+  <img src="https://img.shields.io/badge/Talento_Javeriano-0B3954?style=for-the-badge&logoColor=white" />
+</a>
 <a href="mailto:julianafricano@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
