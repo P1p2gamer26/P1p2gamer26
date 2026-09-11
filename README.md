@@ -392,7 +392,7 @@ Jetpack Compose, Docker, PostgreSQL, GitHub Actions.
   <br/><br/>
   -->
 
-  <img src="https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=10" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=P1p2gamer26&theme=tokyonight&hide_border=true&background=0d1117&ring=03787c&fire=03787c&currStreakLabel=03787c&sideLabels=c9d1d9&border_radius=12&stroke=03787c" alt="Racha de contribuciones" />
 </div>
 
 <br/>
